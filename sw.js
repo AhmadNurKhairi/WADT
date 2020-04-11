@@ -4,9 +4,6 @@ var CACHE_NAME = APP_PREFIX + VERSION
 var URLS = [  
   '/WADT/',                          // Add URL you want to cache in this list.                    
   '/WADT/index.html',
-  '/WADT/about.html',  
-  '/WADT/products.html',  
-  '/WADT/store.html'
 ]
 
 // Respond with cached resources
